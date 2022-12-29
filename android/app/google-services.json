@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "629462508053",
+    "project_id": "imovers-d107a",
+    "storage_bucket": "imovers-d107a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629462508053:android:104bb0a1be32f3396d241c",
+        "android_client_info": {
+          "package_name": "com.cmr.imovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629462508053-vhq14fba34jp2f4g1g19gl2p76d4s5vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxyDDuE6qGwWXJ1WPCGC4NHVppMVPGYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629462508053-vhq14fba34jp2f4g1g19gl2p76d4s5vk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629462508053-8kuiml73n92p7e47jvht0jptk3ibisnk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cmr.imovers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
